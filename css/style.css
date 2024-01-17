@@ -1,0 +1,40 @@
+body {
+    background-color: #1a202c;
+    color: #a0aec0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.header h1 {
+    font-size: 2rem;
+    color: #f7fafc;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section h2 {
+    font-size: 1.5rem;
+    color: #f7fafc;
+}
+
+.section p {
+    line-height: 1.6;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    color: #718096;
+}
